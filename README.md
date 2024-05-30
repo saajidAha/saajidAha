@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saajid Ahamed.
-- 😄 Currently a Computer Science Undergraduate.
-- 😎 Interested in Full-Stack development.
-- 💯 You can reach me on LinkedIn.
+- Currently a Computer Science Undergraduate.
+- Interested in Full-Stack development.
 
 <!---
 saajidAha/saajidAha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
