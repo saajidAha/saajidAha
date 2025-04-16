@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saajid Ahamed</h1>
 <h3 align="center">A Passionate Computer Science Undergraduate & Full Stack Developer</h3>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=saajidaha&theme=synthwave" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=saajidaha&theme=synthwave" alt="GitHub Streak Stats" /> <!--vercel version -->
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=saajidaha&theme=synthwave" alt="GitHub Streak Stats" /> -->
 </p>
 <img align="right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE"/>
 
