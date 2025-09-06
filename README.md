@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saajid Ahamed</h1>
-<h3 align="center">A Passionate Computer Science Undergraduate & Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Engineer & Computer Science Undergrad</h3>
 <p align="center">  
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=saajidaha&theme=synthwave" alt="GitHub Streak Stats"/>        
 </p>
