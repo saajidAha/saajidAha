@@ -3,7 +3,6 @@
 <p align="center">  
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=saajidaha&theme=synthwave" alt="GitHub Streak Stats"/>        
 </p>
-<img align="right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
